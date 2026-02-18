@@ -1,4 +1,4 @@
-package cj02;
+package cj3;
 
 public class Whileloop {
     public static void main(String[] args){

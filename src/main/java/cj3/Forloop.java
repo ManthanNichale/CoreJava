@@ -1,4 +1,4 @@
-package cj02;
+package cj3;
 import java.util.Scanner;
 
 public class Forloop {
