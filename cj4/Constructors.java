@@ -1,4 +1,4 @@
-package cj5;
+package cj4;
 import java.util.Scanner;
 
 class Constructors {
