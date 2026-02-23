@@ -48,7 +48,6 @@ public class BankApplication {
             System.out.println("Enter Full Name");
             String Blance = sc.nextLine();
 
-            // ✅ Using equals() for string comparison
             if (Blance.equals("Rajiv")) {
                 System.out.println("Balance is = 45678.70");
             } else {
