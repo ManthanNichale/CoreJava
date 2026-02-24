@@ -28,7 +28,7 @@ class Constructors {
 
                 System.out.println("Enter Age:");
                 int eage = sc.nextInt();
-                sc.nextLine();   // ✅ Fix: consume leftover newline
+                sc.nextLine();
 
                 System.out.println("Enter Name:");
                 String ename = sc.nextLine();
