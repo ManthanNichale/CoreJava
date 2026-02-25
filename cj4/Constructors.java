@@ -11,7 +11,7 @@ class Constructors {
     static String profession = "office";
 
     Constructors(String eplace, int eage, String ename, int esalary) {
-        age = eage;//Tack the value as eage constructor and store it age Variable
+        age = eage;
         name = ename;
         salary = esalary;
         place = eplace;

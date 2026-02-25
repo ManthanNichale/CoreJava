@@ -1,12 +1,14 @@
-package com.techouts.cj5.ovveriding;
+package com.techouts.cj5.overriding;
 
-public class ClassA {
-     String m1(int i){
+public class ClassB {
+
+
+    String m1(int x){
 
         System.out.println("Class - A method called");
-        return "Java";
+        return "Improve";
     }
-    void m2(int i,String s){
+    void m2(int x,String sr){
         System.out.println("Class-A method() called");
 
     }
