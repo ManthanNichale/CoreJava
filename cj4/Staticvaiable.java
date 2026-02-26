@@ -17,8 +17,5 @@ static int b=40;
 
         Staticvaiable.Show();
 
-
-
-
     }
 }
