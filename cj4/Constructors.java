@@ -10,8 +10,8 @@ class Constructors {
 
     static String profession = "office";
 
-    Constructors(String eplace, int eage, String ename, int esalary) {
-        age = eage;
+    Constructors(String eplace, int age, String ename, int esalary) {
+        this.age = age;
         name = ename;
         salary = esalary;
         place = eplace;

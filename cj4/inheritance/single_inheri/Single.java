@@ -1,6 +1,7 @@
 package com.techouts.cj4.inheritance.single_inheri;
 
-public class Single {  public static void main(String[] args) {
+public class Single {
+    public static void main(String[] args) {
 
     System.out.println("Main Method Started");
 

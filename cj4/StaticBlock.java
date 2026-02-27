@@ -2,7 +2,7 @@ package com.techouts.cj4;
 
 public class StaticBlock {
     static {
-        System.out.println("First Exicute it static block");//it excute the without calling it
+        System.out.println("First Execute it static block");//it execute the without calling it
     }
 
     // Static Variables
@@ -28,6 +28,7 @@ public class StaticBlock {
 
 
     public StaticBlock(String john) {
+    //    System.out.println(john);
     }
 
     // Static Method
