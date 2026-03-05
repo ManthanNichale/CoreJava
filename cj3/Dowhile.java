@@ -1,6 +1,6 @@
 package com.techouts.cj3;
 
-public class Do_while {
+public class Dowhile {
 
     static void main() {
         int i =1;

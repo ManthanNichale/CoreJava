@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Input_output {
     void m1() throws IOException {
 
-           File f = new File("C:\\Users\\Manthan Ashru\\Desktop\\r.txt");
+          File f = new File("C:\\Users\\Manthan Ashru\\Desktop\\rl.txt");
 
                System.out.println("File is created now");
         FileOutputStream o =new FileOutputStream(f);

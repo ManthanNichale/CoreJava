@@ -10,7 +10,7 @@ public class Assignment_1 {
     public static void main(String[] args) {
 
         try {
-            FileReader f = new FileReader("C:\\Users\\Manthan Ashru\\Desktop\\rl.txt");
+            FileReader f = new FileReader("C:\\Users\\Manthan Ashru\\Desktop\\tk.txt");
             BufferedReader br = new BufferedReader(f);
 
             String line;

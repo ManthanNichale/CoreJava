@@ -6,7 +6,7 @@ import java.nio.file.Paths;//toolbox to work with files
 
 public class FilesExample {
     public static void main(String[] args) throws Exception {
-        Path p = Paths.get("C:\\Users\\Manthan Ashru\\Desktop\\txt");
+        Path p = Paths.get("C:\\Users\\Manthan Ashru\\Desktop\\rl.txt");
 
         if(Files.exists(p)) {
             System.out.println("File exists");
