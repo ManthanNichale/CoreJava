@@ -1,5 +1,5 @@
 package com.techouts.assignment_2.assignment_3;
-//write the file  object to stream.
+//write the file(data) object to stream.
 import java.io.*;
 
 public class SerializeDemo {

@@ -6,8 +6,9 @@ import java.io.IOException;
 
     public class Assignment_2 {
         public static void main(String[] args) {
+            try{
+             FileWriter f = new FileWriter("C:\\Users\\Manthan Ashru\\Desktop\\LC.txt");
 
-            try (FileWriter f = new FileWriter("C:\\Users\\Manthan Ashru\\Desktop\\LC.txt")) {
                 f.write("Writing the data from the File \n");
                 f.write("From the Java is ");
                 System.out.println(" File written successfully.");
