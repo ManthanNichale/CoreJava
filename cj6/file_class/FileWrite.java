@@ -6,8 +6,9 @@ public class FileWrite {
     public static void main(String[] args) {
 
         try (FileWriter f = new FileWriter("C:\\Users\\Manthan Ashru\\Desktop\\rl.txt")) {
-            f.write("File is Loaded at a time");
-            System.out.println("File written successfully.");
+            f.write("File is Loaded at a time\n");
+            f.write("File written successfully");
+            System.out.println(" File written successfully.");
         }
         catch (IOException e) {
             System.out.println("Error writing file.");

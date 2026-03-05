@@ -2,9 +2,10 @@ package com.techouts.cj6.file_class;
 
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.Reader;
 import java.util.Scanner;
 
-public class FileRead {
+public class Assi {
     public static void main(String[] args) {
 
         try {
