@@ -1,10 +1,7 @@
 package com.techouts.cj8.strem_api;
 
 
-import com.techouts.assignment_1.assignment_26.Array;
-
 import java.util.*;
-import java.util.function.*;
 import java.util.stream.*;
 
 public class Demo2 {
